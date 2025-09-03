@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- PDF Generation -->
+    <PackageVersion Include="QuestPDF" Version="2025.7.1" />
+  </ItemGroup>
+</Project>
