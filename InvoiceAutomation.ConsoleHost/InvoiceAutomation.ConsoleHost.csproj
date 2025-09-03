@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\InvoiceAutomation.Service\InvoiceAutomation.Service.csproj" />
+  </ItemGroup>
+
 </Project>
